@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/UCU-logo.png" alt="UCU Logo" width="180">
+</p>
 
 # 🎵 Reproductor de Música Z80  
 ## Mantel Producciones – Microprocesadores (UCU Campus Salto)

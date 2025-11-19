@@ -6,7 +6,7 @@
 #include <mpg123.h>
 
 // Configuración para Z80
-#define TARGET_SAMPLE_RATE 8000   // 8kHz - ajustable según tu Z80
+#define TARGET_SAMPLE_RATE 3000  // 8kHz - ajustable según tu Z80
 #define TARGET_CHANNELS 1          // Mono
 
 // Estructura para el header WAV
